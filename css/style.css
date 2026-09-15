@@ -7,6 +7,10 @@ h1 {
     color: blue;
     text-align: center;
 }
+h2 {
+    color: green;
+    margin-top: 2px solid black;
+}
 p {
     font-size: 1.6;
     max-width: 700px;
